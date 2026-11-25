@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://md-abdur-rahman-07.github.io/HomeCraft/sitemap.xml
